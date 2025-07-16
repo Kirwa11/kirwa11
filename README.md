@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there I'm Maxwell Kirwa💻
 
-<!--
-**Kirwa11/kirwa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥⌨️Full-stack Innovator:Bulding seamless web & mobiel solutions from Nairobi Kenya,Kotlin,jetpack Compose,python,Django,Java Script,React,Nodjs and more.
 
-Here are some ideas to get you started:
+📍My Tech Journey:Start back in year 2020 when corona and nations in lockdown i being to explore the communication software and have a desire to know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My skills: Am a public Speaking ,Team building,Good Communicationskills and Problems solver.
+
+📪 Let's Connect: Open to internship,freelance gigs,and innovative 
+📧 Email:maxwellkirwa57@gmail.com
+🔗LinkedIn:https://.linkedin.com/in/maxwel-kirwa-67b656353
+💽 GitHub:github.com/kirwa11
+
+🌐 Social:
+
+
